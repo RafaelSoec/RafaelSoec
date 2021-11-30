@@ -14,8 +14,8 @@
 
 #### 🛠  Tech Stack
 
-💻   Java Python  C++  C  Scala  Haskell  NodeJS  
+💻   Java | Python | C++ | C | Scala | Haskell | NodeJS  
 
-🌐   HTML  CSS  JavaScript  Angular  React  Flutter   Ionic   React-Native
+🌐   HTML | CSS | JavaScript | Angular | React | Flutter | Ionic | React-Native
 
-⚡   Git  GitHub  Markdown  Visual Studio Code  
+⚡   Git | GitHub | Markdown | Visual Studio Code  
