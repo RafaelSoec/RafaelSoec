@@ -1,8 +1,8 @@
 ### Hi there 👋 I'm Rafael!
 
-[This is an external link to genome.gov] (https://www.linkedin.com/in/rafael-souza-9a315116a/)
+[This is an external link to genome.gov](https://www.linkedin.com/in/rafael-souza-9a315116a/)
 
-![image](https://user-images.githubusercontent.com/11542233/144068200-a1b2275a-e6f9-489f-9a3c-00922b4d5a17.png)(https://www.linkedin.com/in/rafael-souza-9a315116a/)
+[![image](https://user-images.githubusercontent.com/11542233/144068200-a1b2275a-e6f9-489f-9a3c-00922b4d5a17.png)](https://www.linkedin.com/in/rafael-souza-9a315116a/)
 
 
 #### 💻 About Me
