@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there 👋 I'm Rafael!
 
-<!--
-**RafaelSoec/RafaelSoec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭   Software Developer | Full-stack | Software Engineer.
+🌱   Learning about DynamoDB, Kafka, and Spark.
+💬   Ask me about Java and Angular
+👯   I’m looking to collaborate on Machine Learning Projects
+
+🛠  Tech Stack
+
+💻   Java Python  C++  C  Scala  Haskell  NodeJS  
+
+🌐   HTML  CSS  JavaScript  Angular  React  Flutter   Ionic   React-Native
+
+⚡   Git  GitHub  Markdown  Visual Studio Code  
