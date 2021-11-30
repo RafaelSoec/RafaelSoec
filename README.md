@@ -5,7 +5,7 @@
 
 [![](https://user-images.githubusercontent.com/11542233/144071071-b82f0b73-2827-4d8a-a962-9f77ee981ad6.png)](https://www.linkedin.com/in/rafael-souza-9a315116a/)
 
-<img src="https://user-images.githubusercontent.com/11542233/144071071-b82f0b73-2827-4d8a-a962-9f77ee981ad6.png" width="30" height="30">
+[<img src="https://user-images.githubusercontent.com/11542233/144071071-b82f0b73-2827-4d8a-a962-9f77ee981ad6.png" width="30" height="30">](https://www.linkedin.com/in/rafael-souza-9a315116a/)
 
 #### 💻 About Me
 
